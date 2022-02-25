@@ -1,5 +1,5 @@
 # topsis-py
-Topsis_Laksh is a library for calculating topsis score and ranking them according to the score.
+Topsis_Disha is a library for calculating topsis score and ranking them according to the score.
 ## Installation
 pip install Topsis-Disha-101903291
 ## Code Snippet
